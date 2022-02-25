@@ -1,0 +1,138 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A specimen of the rhetorick, candour, gravity, and ingenuity of Wi. Williams, Speaker to the late House of Commons at Westminster, in his speech to Sir Robert Peyton, when he expell'd him that House</title>
+            <author>Williams, William, Sir, 1634-1700.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1681</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 3 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A66460</idno>
+            <idno type="STC">Wing W2779</idno>
+            <idno type="STC">ESTC R15592</idno>
+            <idno type="EEBO-CITATION">13031119</idno>
+            <idno type="OCLC">ocm 13031119</idno>
+            <idno type="VID">96738</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A66460)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 96738)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 403:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A specimen of the rhetorick, candour, gravity, and ingenuity of Wi. Williams, Speaker to the late House of Commons at Westminster, in his speech to Sir Robert Peyton, when he expell'd him that House</title>
+                  <author>Williams, William, Sir, 1634-1700.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1681]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place and date of publication from Wing.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Peyton, Robert, --  Sir.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-01</date>
+            <label>Emma (Leeson) Huber</label>Sampled and proofread</change>
+         <change>
+            <date>2009-03</date>
+            <label>SPi Global</label>Rekeyed and resubmitted</change>
+         <change>
+            <date>2009-04</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2009-04</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="document">
+            <pb facs="tcp:96738:1"/>
+            <!-- PDF PAGE 15 -->
+            <pb facs="tcp:96738:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 15 -->
+            <head>
+               <hi>A SPECIMEN,</hi> Of the Rhetorick, Candour, Gravity, and Ingenuity of <hi>Wi. Williams,</hi> Speaker to the late Houſe of Commons at <hi>Weſtminſter,</hi> in his Speech to <hi>Sir Robert Pey<g ref="char:EOLhyphen"/>ton,</hi> When he expell'd him that Houſe.</head>
+            <p>You are abſolutely the worſt of <hi>Men,</hi>
+               <note place="margin">The Speaker not ex<g ref="char:EOLhyphen"/>cepted. Guilty of the ſin againſt the Holy Ghoſt. Nonſenſical Bumbaſt.</note> and have committed the <hi>Greateſt of Offences,</hi> for which you deſerve to be <hi>Obliterated</hi> from the Knowledge of all; being of a baſe and timerous Spirit: You have endeavoured to caſt the damnable Plot upon the <hi>moſt Innocent of his Majeſties Subjects;</hi>
+               <note place="margin">Witneſs their Feats from 41 to 48, &amp;c.</note> even thoſe <hi>Friends</hi> who Choſe you to Sit in this <hi>Honourable Houſe.</hi>
+               <note place="margin">Never the more honou<g ref="char:EOLhyphen"/>rable, for being ſupplied by ſuch people.</note> You have diſgraced the Honour of your Family, brought ſuch perpetual Ignominy upon your ſelf, as can never be <hi>Retrieved.</hi> You have for<g ref="char:EOLhyphen"/>ſaken God and your Country;<note place="margin">The poor Dunce knows not the meaning of the word Retrieve. The noble and elegant ſtyle of an Indictment.</note> and <hi>Satan</hi> being your director, you have <hi>imagined, contrived,</hi> and <hi>endeavoured</hi> to bring Popery into this Kingdom, by the vileſt ways the <hi>Devil</hi> and the <hi>Pope could aſſiſt you withal.</hi>
+               <note place="margin">But the Bill of Union would have been a more effectual one.</note>
+            </p>
+            <p>You have been out of meaſure, ungrateful, and fled from the Principles of all honeſt men, I cannot call you fallen Angel, <hi>for you have been a Devil from the beginning;</hi>
+               <note place="margin">Charity and Civility.</note> and to bring your Diabolical purpoſe to paſs, you have conſulted the Devil, <hi>Gadbury,</hi> and hugg'd the Witch <hi>Cel<g ref="char:EOLhyphen"/>liers,</hi> and have been a <hi>True Hypocrite,</hi>
+               <note place="margin">If <hi>true,</hi> how a <hi>Hypocrite?</hi> if a <hi>Hypocrite,</hi> how <hi>true?</hi>
+               </note> and plaid a Prize with Religion for advantage. But why ſhould I ſay Religion, when you never had any, but were ever a profuſe rolling <hi>Hero,</hi> having no<g ref="char:EOLhyphen"/>thing now left you but the ſhape of a Man, whereby you are become nauceous to this Houſe,<note place="margin">Could any thing have, been more cleanly and gentilely, more decently and gravely expreſſed? You ſhould have put your Finger in your Throat, and have gone on with this great work.</note> and therefore they now <hi>ſpew you out.</hi>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>
